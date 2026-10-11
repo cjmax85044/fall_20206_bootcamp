@@ -1,0 +1,13 @@
+DISK SNAPSHOT
+=============
+Target path: /Users/coreyjoffrion/Documents/TheoWAF/fall_20206_bootcamp/live-server-diagnostics
+
+Filesystem usage:
+Filesystem      Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk1s1   233Gi   182Gi    37Gi    84%    1.3M  388M    0%   /System/Volumes/Data
+
+Directory size:
+ 48K	/Users/coreyjoffrion/Documents/TheoWAF/fall_20206_bootcamp/live-server-diagnostics
+
+File count:
+       4
